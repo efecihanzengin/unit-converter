@@ -4,6 +4,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  background-color: rgb(155, 90, 216);
 }
 
 #upper-page {
